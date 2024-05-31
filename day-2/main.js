@@ -1,4 +1,4 @@
-// Initialize Firebase (ADD YOUR OWN DATA)
+// Initialize Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyAKYcvW1Ip9ceHEy46NNlrKVvoRzwpDLO4",
   authDomain: "final-alambana.firebaseapp.com",
